@@ -1,0 +1,8 @@
+Open the code in your editor
+i have used VSCODE
+import dependencies using pip
+run the program by typing "streamlit run chatbot.py" in terminal
+a new streamlit window will open
+type your query and get the output
+you can ask multiple questions one after another in the same text box
+to terminate cntrl+c in termional and click on x icon on the streamlit window
